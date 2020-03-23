@@ -65,10 +65,10 @@ public class MainClass {
 		// Uncomment to resize images
 		
 		// Resize images
-		ResizeImages(dirTrainNormal, dirTrainResizedString, "normal");
-		ResizeImages(dirTrainPneumonia, dirTrainResizedString, "pneumonia");
-		ResizeImages(dirTestNormal, dirTestResizedString, "normal");
-		ResizeImages(dirTestPneumonia, dirTestResizedString, "pneumonia");
+//		ResizeImages(dirTrainNormal, dirTrainResizedString, "normal");
+//		ResizeImages(dirTrainPneumonia, dirTrainResizedString, "pneumonia");
+//		ResizeImages(dirTestNormal, dirTestResizedString, "normal");
+//		ResizeImages(dirTestPneumonia, dirTestResizedString, "pneumonia");
 		
 		
 		// ANN
